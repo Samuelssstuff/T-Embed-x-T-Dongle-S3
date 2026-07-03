@@ -50,4 +50,4 @@ If you run into any problems or have questions, feel free to:
 
 ---
 
-**Educational Purposes Only** — Use at your own risk.
+**Educational Purposes Only** - Use at your own risk.
