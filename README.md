@@ -1,4 +1,4 @@
-# T Embed x T Dongle - VERSION 1.0
+# T Embed x T Dongle S3 - VERSION 1.0
 
 **T-Embed CC1101+ Remote Payload & Live Keyboard** for Bruce JS Interpreter + SwissArmyKnife on T-Dongle S3.
 
